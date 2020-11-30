@@ -1,0 +1,57 @@
+header{
+    color: mediumvioletred;
+    text-align: center;
+    font-size: 50px;
+    border: sandybrown;
+    padding: 50px;
+    margin: 50px;
+    /*background: url(https://image.freepik.com/free-vector/abstract-watercolor-texture-background-vector_1055-9115.jpg ); */
+    background: url(https://thumbs.dreamstime.com/b/vector-abstract-irregular-polygon-background-triangle-low-poly-pattern-salmon-pink-peach-orange-cute-color-148737790.jpg);
+    background-size: 100%;
+    
+    
+}
+.clock{
+    padding-top: 20px;
+}
+
+
+body{
+    background: url(https://image.freepik.com/free-vector/3d-low-poly-dark-background_79145-408.jpg);
+    background-size: 50%;
+    
+    font-family: cursive;
+
+}
+span{
+    color: lightpink;
+    
+}
+p{
+    color: lightgoldenrodyellow;
+}
+ul{
+    float: inline-end;
+    list-style-type: none;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: lightsalmon;
+    padding: 5px 20px;
+    border: 4px solid transparent;
+    transition: 0.6s ease;
+}
+ul li *:hover{
+    background-color: none;
+    color: rgb(245, 239, 239);
+}
+footer{
+    color: lightcoral;
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+}
